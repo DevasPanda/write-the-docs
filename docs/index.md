@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+theme: minima
 ---
 
 # My GitHub Pages site
